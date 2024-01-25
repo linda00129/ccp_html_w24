@@ -1,19 +1,29 @@
+body{
+    background-color: #F2D4CE;
+    color:#730000;
+    padding:30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1,h2,h3{
+    font-family: sans-serif,Arial, Helvetica,;
+    font-weight: bold;
+    line-height:42pt;
+    color:#730000;
+
+}
+
 h1{
     font-size: 36pt;
-    font-family: Roboto, Arial, Helvetica, sans-serif;
     text-align: center;
 }
 
 h2{
     font-size: 30pt;
-    font-family: Roboto, Arial, Helvetica, sans-serif;
-    color:brown
 }
 
 h3{
     font-size: 24pt;
-    font-family: Roboto, Arial, Helvetica, sans-serif;
-    color:brown;
 }
 
 p{
